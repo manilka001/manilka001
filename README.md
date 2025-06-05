@@ -2,34 +2,30 @@
 
 Welcome to my GitHub profile! I'm passionate about coding, learning new technologies, and building impactful software.  
 
-🌱 I’m currently learning: `AI & Machine Learning`, `Full-stack Web Development`, `Java`, and `Open Source Contribution`  
+🌱 I’m currently learning:  `Full-stack Web Development`, `Java`, and `Dev-ops-engineering`  
 📫 Reach me: [anupama200108@gmail.com](mailto:anupama200108@gmail.com)  
-💬 Ask me about: anything tech-related — always happy to help!
 
 ---
 
 ## 🔧 Skills & Technologies
 
-- 💻 Languages: `Java`, `JavaScript`, `PHP`, `Python`, `C++`
-- 🌐 Web: `HTML`, `CSS`, `JavaScript`, `React`, `Laravel`
+- 💻 Languages: `Java`, `JavaScript`, `PHP`, `Python`
+- 🌐 Web: `HTML`, `CSS`, `JavaScript`, `React`, `Express`
 - 🛠️ Tools: `Git`, `VSCode`, `Postman`, `MySQL`, `XAMPP`, `Figma`
-- 📚 Currently Learning: `Docker`, `AI in Agriculture`, `OpenGL`, `MVC Design Patterns`
+- 📚 Currently Learning: `Docker`,   `MVC Design Patterns`
 
 ---
 
 ## 📊 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manilka001&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Manilka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manilka001&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manilka001&layout=compact&theme=radical)
 
----
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manilka001&theme=radical)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=manilka001&theme=radical)
 
-## 🏆 Achievements
 
-- 🥇 Final 6 of Jury Address Competition 2025 – Certificate from Attorney General  
-- 🎓 Undergraduate in Law + Self-taught Developer  
-- 👩‍⚕️ Building a Health Record Management System  
-- 🚗 Developing an AI-powered Car Service Recommender
+
 
 ---
 
@@ -40,4 +36,4 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ---
 
-_Thanks for visiting my GitHub profile! ⭐ Let's build something amazing together._
+_Thanks for visiting my GitHub profile! ⭐ 
