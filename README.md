@@ -31,8 +31,8 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/yourprofile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-visit-blueviolet)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/anupama-rajapaksha-62400a241)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-visit-blueviolet)](https://manilka.vercel.app/)
 
 ---
 
